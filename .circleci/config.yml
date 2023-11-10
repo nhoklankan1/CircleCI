@@ -8,17 +8,13 @@ commands:
       - run:
           name: Run Build Script
           command: |
-            apt-get update
-            apt-get install --yes wget
-            apt-get install --yes make
-            apt-get install --yes build-essential
             chmod +x ./build.sh
             ./build.sh
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
     docker:
-      - image: U1
+      - image: nhoklankan7/stm32cubeide
     steps:
       - build_and_save
 workflows:
