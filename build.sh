@@ -6,3 +6,4 @@ echo $BASE_DIR
 echo $BUILD_DIR
 cd $BUILD_DIR
 ls -l
+make clean
