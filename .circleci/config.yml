@@ -7,7 +7,9 @@ commands:
           path: ~/CircleCI
       - run:
           name: Run Build Script
-          command: ./build.sh
+          command: |
+            chmod +x ./build.sh
+            ./build.sh
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
