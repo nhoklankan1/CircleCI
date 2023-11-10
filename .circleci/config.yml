@@ -12,4 +12,8 @@ jobs:
       -image: nhoklankan7/stm32cubeide
     steps:
       -build_and_save
+workflows:
+  build_and_save:
+    jobs:
+      - build_and_save
       
