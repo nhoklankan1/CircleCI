@@ -4,16 +4,18 @@ BASE_DIR=$PWD
 BUILD_DIR=$BASE_DIR/DIO_Abstraction/Debug
 echo $BASE_DIR
 echo $BUILD_DIR
+
 echo "install toolchains"
 mkdir toolchains
 cd toolchains
-wget "https://developer.arm.com/-/media/Files/downloads/gnu-rm/10.3-2021.10/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2"
+wget "https://developer.arm.com/-/media/Files/downloads/gnu/13.2.rel1/binrel/arm-gnu-toolchain-13.2.rel1-x86_64-arm-none-eabi.tar.xz"
 ls -l
-tar -jxf gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2
-rm gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2
+tar -xf arm-gnu-toolchain-13.2.rel1-x86_64-arm-none-eabi.tar.xz
+rm arm-gnu-toolchain-13.2.rel1-x86_64-arm-none-eabi.tar.xz
 ls -l
-export PATH="~/CircleCI/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin:$PATH"
+export PATH="~/toolchains/arm-gnu-toolchain-13.2.rel1/bin:$PATH"
 arm-none-eabi-gcc --version
+
 echo "build stm32"
 cd $BUILD_DIR
 make all
