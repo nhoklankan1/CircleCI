@@ -4,7 +4,7 @@ command:
     steps:
       -run:
         name: Run Build Script
-        command: ./build.sh $BUILD_NUMBER
+        command: ./build.sh
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
