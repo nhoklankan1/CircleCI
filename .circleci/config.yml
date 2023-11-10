@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 command:
   build_and_save:
     steps:
