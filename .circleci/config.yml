@@ -17,6 +17,8 @@ commands:
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
+    docker:
+      - image: U1
     steps:
       - build_and_save
 workflows:
