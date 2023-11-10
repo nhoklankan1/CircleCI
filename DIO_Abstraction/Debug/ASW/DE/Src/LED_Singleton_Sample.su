@@ -1,0 +1,7 @@
+../ASW/DE/Src/LED_Singleton_Sample.cpp:15:1:LED_test::LED_test()	16	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:23:1:LED_test::~LED_test()	16	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:23:1:virtual LED_test::~LED_test()	16	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:30:11:static LED_test& LED_test::getInstance()	4	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:32:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:32:1:cpp)	8	static
+../ASW/DE/Src/LED_Singleton_Sample.cpp:32:1:cpp)	8	static

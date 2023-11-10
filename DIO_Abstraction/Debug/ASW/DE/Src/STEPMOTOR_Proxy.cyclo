@@ -1,0 +1,6 @@
+STEPMOTOR_Proxy.cpp:8:1:StepMotorProxy::StepMotorProxy()	1
+STEPMOTOR_Proxy.cpp:17:1:StepMotorProxy::~StepMotorProxy()	1
+STEPMOTOR_Proxy.cpp:26:9:uint8_t StepMotorProxy::STEPER_getCurrentAngle()	1
+STEPMOTOR_Proxy.cpp:36:9:uint8_t StepMotorProxy::STEPPER_getCurrentSpeed()	1
+STEPMOTOR_Proxy.cpp:46:6:void StepMotorProxy::STEPPER_setSpeed(uint8_t)	1
+STEPMOTOR_Proxy.cpp:57:6:void StepMotorProxy::STEPPER_setAngle(StepMotorProxy, uint8_t, uint8_t)	4

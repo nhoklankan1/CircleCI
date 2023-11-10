@@ -1,0 +1,7 @@
+BUTTON_Singleton_Sample.cpp:11:1:BUTTON_Button_Start::BUTTON_Button_Start()	1
+BUTTON_Singleton_Sample.cpp:19:1:BUTTON_Button_Start::~BUTTON_Button_Start()	1
+BUTTON_Singleton_Sample.cpp:19:1:virtual BUTTON_Button_Start::~BUTTON_Button_Start()	1
+BUTTON_Singleton_Sample.cpp:26:22:static BUTTON_Button_Start& BUTTON_Button_Start::get_Instance()	1
+BUTTON_Singleton_Sample.cpp:28:1:void __static_initialization_and_destruction_0(int, int)	5
+BUTTON_Singleton_Sample.cpp:28:1:cpp)	1
+BUTTON_Singleton_Sample.cpp:28:1:cpp)	1

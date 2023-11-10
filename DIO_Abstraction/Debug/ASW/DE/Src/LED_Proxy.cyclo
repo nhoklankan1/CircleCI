@@ -1,0 +1,5 @@
+LED_Proxy.cpp:8:1:LED_Proxy::LED_Proxy()	1
+LED_Proxy.cpp:16:1:LED_Proxy::~LED_Proxy()	1
+LED_Proxy.cpp:16:1:virtual LED_Proxy::~LED_Proxy()	1
+LED_Proxy.cpp:23:9:uint8_t LED_Proxy::getState()	1
+LED_Proxy.cpp:34:6:void LED_Proxy::setState(uint8_t)	2

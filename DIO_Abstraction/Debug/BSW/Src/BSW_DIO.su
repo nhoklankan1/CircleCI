@@ -1,0 +1,4 @@
+../BSW/Src/BSW_DIO.cpp:9:6:void DIO_DeInit(GPIO_TypeDef*, uint32_t)	16	static
+../BSW/Src/BSW_DIO.cpp:19:6:void DIO_TogglePin(GPIO_TypeDef*, uint16_t)	16	static
+../BSW/Src/BSW_DIO.cpp:30:15:GPIO_PinState DIO_ReadPin(GPIO_TypeDef*, uint16_t)	16	static
+../BSW/Src/BSW_DIO.cpp:41:6:void DIO_WritePin(GPIO_TypeDef*, uint16_t, GPIO_PinState)	16	static
