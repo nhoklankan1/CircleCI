@@ -1,5 +1,5 @@
 version: 2.1
-command:
+commands:
   build_and_save:
     steps:
       -run:
