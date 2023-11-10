@@ -1,17 +1,20 @@
 version: 2.1
 commands:
   build_and_save:
+    description: build stm32
     steps:
-      -run:
-        name: Run Build Script
-        command: ./build.sh
+      - checkout:
+          path: ~/CircleCI
+      - run:
+          name: Run Build Script
+          command: ./build.sh
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
     docker:
-      -image: nhoklankan7/stm32cubeide
+      - image: nhoklankan7/stm32cubeide
     steps:
-      -build_and_save
+      - build_and_save
 workflows:
   build_and_save:
     jobs:
