@@ -1,23 +1,4 @@
 #/bin/bash
-mkdir ~/solution || true
-cd ~/solution/
-cat \<< EOF > ~/solution/sources.list
-deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
-deb http://archive.canonical.com/ubuntu focal partner
-deb-src http://archive.canonical.com/ubuntu focal partner
-EOF
-rm /etc/apt/sources.list
-cp ~/solution/sources.list /etc/apt/sources.list
-mv /etc/apt/sources.list.d/* ~/solution || true
-apt-get update
-apt-get install --yes wget
 echo "Running Build and Save Script"
 BASE_DIR=$PWD
 BUILD_DIR=$BASE_DIR/DIO_Abstraction/Debug
