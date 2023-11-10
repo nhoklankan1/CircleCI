@@ -17,8 +17,6 @@ commands:
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
-    docker:
-      - image: nhoklankan7/stm32cubeide
     steps:
       - build_and_save
 workflows:
