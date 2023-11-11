@@ -1,5 +1,0 @@
-../ASW/DE/Src/BUTTON_Proxy.cpp:6:1:BUTTON_Proxy::BUTTON_Proxy()	16	static
-../ASW/DE/Src/BUTTON_Proxy.cpp:15:1:BUTTON_Proxy::~BUTTON_Proxy()	16	static
-../ASW/DE/Src/BUTTON_Proxy.cpp:15:1:virtual BUTTON_Proxy::~BUTTON_Proxy()	16	static
-../ASW/DE/Src/BUTTON_Proxy.cpp:24:9:uint8_t BUTTON_Proxy::getState()	16	static
-../ASW/DE/Src/BUTTON_Proxy.cpp:34:6:void BUTTON_Proxy::setState(uint8_t)	16	static
