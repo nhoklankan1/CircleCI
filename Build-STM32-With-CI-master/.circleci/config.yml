@@ -1,0 +1,25 @@
+version: 2.1
+
+commands:
+  build_and_save:
+    steps:
+      - checkout:
+          path: ~/Build-STM32-With-CI
+      - run:
+          name: Run Build Script
+          command: |
+            chmod +x ./build.sh
+            ./build.sh
+
+jobs:
+  build_and_save:
+    working_directory: ~/Build-STM32-With-CI
+    docker:
+      - image: nhathoangbui1510/stm32-env-image
+    steps:
+      - build_and_save
+
+workflows:
+  build_and_save:
+    jobs:
+      - build_and_save
