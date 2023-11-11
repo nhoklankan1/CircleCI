@@ -9,4 +9,4 @@ arm-none-eabi-gcc --version
 
 echo "build stm32"
 cd $BUILD_DIR
-make j8 all
+make all
