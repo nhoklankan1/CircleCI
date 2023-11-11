@@ -1,7 +1,7 @@
 #/bin/bash
 echo "Running Build and Save Script"
 BASE_DIR=$PWD
-BUILD_DIR=$BASE_DIR
+BUILD_DIR=$BASE_DIR/DIO_Abstraction
 echo $BASE_DIR
 echo $BUILD_DIR
 
