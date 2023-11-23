@@ -1,4 +1,5 @@
 #/bin/bash
+BASE_DIR=$PWD
 BUILD_DIR=$BASE_DIR/DIO_Abstraction
 echo "==== Build Test Firmware for STM32 ===="
 
