@@ -7,4 +7,4 @@ arm-none-eabi-gcc --version
 
 echo "==== Run Build ===="
 cd $BUILD_DIR
-make
+make all
