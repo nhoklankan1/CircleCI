@@ -5,4 +5,4 @@ echo "==== Version of GCC Toolchains ===="
 arm-none-eabi-gcc --version
 
 echo "==== Run Build ===="
-make all
+make
