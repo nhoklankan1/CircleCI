@@ -6,8 +6,8 @@ echo "==== Build Test Firmware for STM32 ===="
 echo "==== Version of GCC Toolchains ===="
 apt install -y cmake
 arm-none-eabi-gcc --version
+cd $BUILD_DIR
 cmake -DCMAKE_TOOLCHAIN_FILE=${CMAKE_CURRENT_SOURCE_DIR}/gcc-arm-none-eabi.cmake
 
 echo "==== Run Build ===="
-cd $BUILD_DIR
 make all
