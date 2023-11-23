@@ -1,0 +1,3 @@
+/mnt/c/Users/ASUS/OneDrive/Máy tính/test/CircleCI/DIO_Abstraction/CMakeFiles/CLion_STM_LED.elf.dir
+/mnt/c/Users/ASUS/OneDrive/Máy tính/test/CircleCI/DIO_Abstraction/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ASUS/OneDrive/Máy tính/test/CircleCI/DIO_Abstraction/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1246 @@
+Archive member included to satisfy reference by file (symbol)
+
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+                              CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj (operator delete(void*))
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj (__aeabi_i2d)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj (__aeabi_ddiv)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                              CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj (__aeabi_d2iz)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+                              CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj (__errno)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o) (free)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o) (_malloc_r)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (__call_exitprocs)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (atexit)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o) (_free_r)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o) (errno)
+/mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+                              /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x7c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0xe CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x3a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x0000000000000000       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x0000000000000000       0x1a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x0000000000000000       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x22 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xe4 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x30 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x50 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x0000000000000000       0x48 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x0000000000000000       0x40 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x0000000000000000       0x40 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x0000000000000000       0x4c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x0000000000000000       0x6c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x0000000000000000       0x2c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000        0x8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000        0xe CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x2c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x1e CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000       0xb4 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xb8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x86 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0xc0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x76 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000       0xf0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x324 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x20c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x90 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0xac CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000       0x1a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000       0x5a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000      0x14c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000       0xf0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xc0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x32 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000       0x26 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x48 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x40 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x30 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x2c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0xe0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x90 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x1c8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000       0x12 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x4c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x8c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x0000000000000000       0xa0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xd8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0x84 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x0000000000000000       0x84 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xf8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x0000000000000000       0x40 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x0000000000000000      0x144 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x0000000000000000      0x140 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x0000000000000000       0xa0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0x70 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x0000000000000000       0x68 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x20 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x0000000000000000       0x40 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x4e CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x30 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x0000000000000000       0x2c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x0000000000000000       0x10 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x28 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0xbc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x64 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x24 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000      0x134 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x70 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x28 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x28 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000      0x104 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x60 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x28 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0xc CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x16c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0x60 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x16c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPLLMULFactorTable.1
+                0x0000000000000000       0x10 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPredivFactorTable.0
+                0x0000000000000000        0x2 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .ARM.extab.text._ZdlPv
+                0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000000000       0x10 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x558 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xc4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x48 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x90 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000005000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/Action.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+START GROUP
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x0000000008000110     0x2b68
+                0x0000000008000110                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000110       0x40 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000008000150       0xe4 CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+                0x0000000008000150                main
+ .text          0x0000000008000234       0x9c CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+                0x0000000008000234                BUTTON_Proxy::BUTTON_Proxy()
+                0x0000000008000234                BUTTON_Proxy::BUTTON_Proxy()
+                0x0000000008000260                BUTTON_Proxy::~BUTTON_Proxy()
+                0x0000000008000260                BUTTON_Proxy::~BUTTON_Proxy()
+                0x0000000008000280                BUTTON_Proxy::~BUTTON_Proxy()
+                0x000000000800029e                BUTTON_Proxy::getState()
+                0x00000000080002b4                BUTTON_Proxy::setState(unsigned char)
+ .text          0x00000000080002d0       0xec CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+                0x00000000080002d0                BUTTON_Button_Start::BUTTON_Button_Start()
+                0x00000000080002d0                BUTTON_Button_Start::BUTTON_Button_Start()
+                0x0000000008000304                BUTTON_Button_Start::~BUTTON_Button_Start()
+                0x0000000008000304                BUTTON_Button_Start::~BUTTON_Button_Start()
+                0x0000000008000328                BUTTON_Button_Start::~BUTTON_Button_Start()
+                0x0000000008000346                BUTTON_Button_Start::get_Instance()
+ .text          0x00000000080003bc       0xac CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+                0x00000000080003bc                LED_Proxy::LED_Proxy()
+                0x00000000080003bc                LED_Proxy::LED_Proxy()
+                0x00000000080003e8                LED_Proxy::~LED_Proxy()
+                0x00000000080003e8                LED_Proxy::~LED_Proxy()
+                0x0000000008000408                LED_Proxy::~LED_Proxy()
+                0x0000000008000426                LED_Proxy::getState()
+                0x000000000800043c                LED_Proxy::setState(unsigned char)
+ .text          0x0000000008000468       0xec CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+                0x0000000008000468                LED_test::LED_test()
+                0x0000000008000468                LED_test::LED_test()
+                0x000000000800049c                LED_test::~LED_test()
+                0x000000000800049c                LED_test::~LED_test()
+                0x00000000080004c0                LED_test::~LED_test()
+                0x00000000080004de                LED_test::getInstance()
+ .text          0x0000000008000554      0x4bc CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+                0x0000000008000554                RobotArmManager::RobotArmManager_computeTrajectory(int, int, int, int)
+                0x00000000080005cc                RobotArmManager::RotatingArmJoint_rotate(RotatingArmJoint*, ActionValue)
+                0x0000000008000600                RobotArmManager::isActionEmpty(Action const&)
+                0x0000000008000622                RobotArmManager::RobotArmManager_executeStep()
+                0x0000000008000724                RobotArmManager::RobotArmManager_graspAt(int, int, int, int)
+                0x00000000080007d0                RobotArmManager::RotatingArmJoint_zero(RotatingArmJoint*)
+                0x00000000080007ea                RobotArmManager::RobotArmManager_zero()
+                0x000000000800084e                RobotArmManager::RobotArmManager_getItsRotatingArmJoint()
+                0x0000000008000866                RobotArmManager::RobotArmManager_addItsRotatingArmJoint(RotatingArmJoint*)
+                0x00000000080008ae                RobotArmManager::RobotArmManager_removeItsRotatingArmJoint(RotatingArmJoint*)
+                0x00000000080008f4                RobotArmManager::RobotArmManager_clearItsRotatingArmJoint()
+                0x0000000008000926                RobotArmManager::RobotArmManager_getItsAction()
+                0x000000000800093e                RobotArmManager::RobotArmManager_addItsAction(Action*)
+                0x0000000008000952                RobotArmManager::RobotArmManager_removeItsAction(Action*)
+                0x0000000008000966                RobotArmManager::RobotArmManager_clearItsAction()
+                0x0000000008000978                RobotArmManager::RobotArmManager()
+                0x0000000008000978                RobotArmManager::RobotArmManager()
+                0x00000000080009d0                RobotArmManager::~RobotArmManager()
+                0x00000000080009d0                RobotArmManager::~RobotArmManager()
+                0x00000000080009f0                RobotArmManager::~RobotArmManager()
+ .text          0x0000000008000a10      0x280 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+                0x0000000008000a10                RotatingArmJoint::RotatingArmJoint()
+                0x0000000008000a10                RotatingArmJoint::RotatingArmJoint()
+                0x0000000008000a30                RotatingArmJoint::~RotatingArmJoint()
+                0x0000000008000a30                RotatingArmJoint::~RotatingArmJoint()
+                0x0000000008000a44                RotatingArmJoint::RJoint_getCurrentAngle()
+                0x0000000008000a5a                RotatingArmJoint::RJoint_getCurrentSpeed()
+                0x0000000008000a70                RotatingArmJoint::RJoint_setSpeed(unsigned char)
+                0x0000000008000a8c                RotatingArmJoint::RJoint_setAngle(unsigned char)
+                0x0000000008000aa8                RotatingArmJoint::check_ValidAngle(ActionValue)
+                0x0000000008000afe                RotatingArmJoint::Rotating_Joint(ActionValue)
+                0x0000000008000be8                RotatingArmJoint::Rotate_Angle(int, int, int)
+                0x0000000008000c3a                RotatingArmJoint::zero()
+ .text          0x0000000008000c90       0x90 CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+                0x0000000008000c90                DIO_DeInit
+                0x0000000008000caa                DIO_TogglePin
+                0x0000000008000cc8                DIO_ReadPin
+                0x0000000008000ce8                DIO_WritePin
+ .text          0x0000000008000d20       0x98 CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+                0x0000000008000d20                RTE_HW_Init
+                0x0000000008000d2c                RTE_LED_Toggle
+                0x0000000008000d44                RTE_Write
+                0x0000000008000d88                RTE_Read
+ .text          0x0000000008000db8      0x378 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x0000000008000db8                __aeabi_drsub
+                0x0000000008000dc0                __aeabi_dsub
+                0x0000000008000dc0                __subdf3
+                0x0000000008000dc4                __adddf3
+                0x0000000008000dc4                __aeabi_dadd
+                0x000000000800103c                __aeabi_ui2d
+                0x000000000800103c                __floatunsidf
+                0x000000000800105c                __floatsidf
+                0x000000000800105c                __aeabi_i2d
+                0x0000000008001080                __extendsfdf2
+                0x0000000008001080                __aeabi_f2d
+                0x00000000080010c4                __aeabi_ul2d
+                0x00000000080010c4                __floatundidf
+                0x00000000080010d4                __floatdidf
+                0x00000000080010d4                __aeabi_l2d
+ .text          0x0000000008001130      0x424 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x0000000008001130                __aeabi_dmul
+                0x0000000008001130                __muldf3
+                0x0000000008001384                __aeabi_ddiv
+                0x0000000008001384                __divdf3
+ .text          0x0000000008001554       0x50 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+                0x0000000008001554                __fixdfsi
+                0x0000000008001554                __aeabi_d2iz
+ *(.text*)
+ .text.ECU_Config
+                0x00000000080015a4       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+                0x00000000080015a4                ECU_Config
+ .text.SystemClock_Config
+                0x00000000080015ba       0x76 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+                0x00000000080015ba                SystemClock_Config
+ .text.MX_GPIO_Init
+                0x0000000008001630       0x64 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .text.Error_Handler
+                0x0000000008001694        0xa CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+                0x0000000008001694                Error_Handler
+ *fill*         0x000000000800169e        0x2 
+ .text.HAL_MspInit
+                0x00000000080016a0       0x44 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x00000000080016a0                HAL_MspInit
+ .text.NMI_Handler
+                0x00000000080016e4        0x6 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000080016e4                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080016ea        0x6 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000080016ea                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080016f0        0x6 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000080016f0                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080016f6        0x6 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000080016f6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080016fc        0x6 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000080016fc                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000008001702        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008001702                SVC_Handler
+ .text.DebugMon_Handler
+                0x000000000800170e        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000800170e                DebugMon_Handler
+ .text.PendSV_Handler
+                0x000000000800171a        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000800171a                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008001726        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008001726                SysTick_Handler
+ *fill*         0x0000000008001732        0x2 
+ .text._sbrk    0x0000000008001734       0x6c CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+                0x0000000008001734                _sbrk
+ .text.SystemInit
+                0x00000000080017a0        0xc CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000000080017a0                SystemInit
+ .text.HAL_Init
+                0x00000000080017ac       0x2c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080017ac                HAL_Init
+ .text.HAL_InitTick
+                0x00000000080017d8       0x60 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080017d8                HAL_InitTick
+ .text.HAL_IncTick
+                0x0000000008001838       0x24 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008001838                HAL_IncTick
+ .text.HAL_GetTick
+                0x000000000800185c       0x14 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x000000000800185c                HAL_GetTick
+ .text.HAL_Delay
+                0x0000000008001870       0x48 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008001870                HAL_Delay
+ .text.__NVIC_SetPriorityGrouping
+                0x00000000080018b8       0x48 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x0000000008001900       0x1c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x000000000800191c       0x54 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x0000000008001970       0x64 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x00000000080019d4       0x44 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0000000008001a18       0x16 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008001a18                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000008001a2e       0x38 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008001a2e                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0000000008001a66       0x18 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008001a66                HAL_SYSTICK_Config
+ *fill*         0x0000000008001a7e        0x2 
+ .text.HAL_GPIO_Init
+                0x0000000008001a80      0x308 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001a80                HAL_GPIO_Init
+ .text.HAL_GPIO_DeInit
+                0x0000000008001d88      0x178 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001d88                HAL_GPIO_DeInit
+ .text.HAL_GPIO_ReadPin
+                0x0000000008001f00       0x2e CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001f00                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_WritePin
+                0x0000000008001f2e       0x30 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001f2e                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x0000000008001f5e       0x32 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001f5e                HAL_GPIO_TogglePin
+ .text.HAL_RCC_OscConfig
+                0x0000000008001f90      0x504 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001f90                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x0000000008002494      0x1d4 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008002494                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008002668       0xa8 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008002668                HAL_RCC_GetSysClockFreq
+ .text.RCC_Delay
+                0x0000000008002710       0x3c CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.Reset_Handler
+                0x000000000800274c       0x48 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x000000000800274c                Reset_Handler
+ .text.Default_Handler
+                0x0000000008002794        0x2 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x0000000008002794                RTC_Alarm_IRQHandler
+                0x0000000008002794                EXTI2_IRQHandler
+                0x0000000008002794                TIM1_CC_IRQHandler
+                0x0000000008002794                PVD_IRQHandler
+                0x0000000008002794                EXTI3_IRQHandler
+                0x0000000008002794                EXTI0_IRQHandler
+                0x0000000008002794                I2C2_EV_IRQHandler
+                0x0000000008002794                ADC1_2_IRQHandler
+                0x0000000008002794                SPI1_IRQHandler
+                0x0000000008002794                TAMPER_IRQHandler
+                0x0000000008002794                DMA1_Channel4_IRQHandler
+                0x0000000008002794                USART3_IRQHandler
+                0x0000000008002794                RTC_IRQHandler
+                0x0000000008002794                DMA1_Channel7_IRQHandler
+                0x0000000008002794                CAN1_RX1_IRQHandler
+                0x0000000008002794                TIM4_IRQHandler
+                0x0000000008002794                I2C1_EV_IRQHandler
+                0x0000000008002794                DMA1_Channel6_IRQHandler
+                0x0000000008002794                TIM3_IRQHandler
+                0x0000000008002794                RCC_IRQHandler
+                0x0000000008002794                TIM1_TRG_COM_IRQHandler
+                0x0000000008002794                DMA1_Channel1_IRQHandler
+                0x0000000008002794                Default_Handler
+                0x0000000008002794                EXTI15_10_IRQHandler
+                0x0000000008002794                EXTI9_5_IRQHandler
+                0x0000000008002794                SPI2_IRQHandler
+                0x0000000008002794                DMA1_Channel5_IRQHandler
+                0x0000000008002794                EXTI4_IRQHandler
+                0x0000000008002794                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000008002794                USB_HP_CAN1_TX_IRQHandler
+                0x0000000008002794                DMA1_Channel3_IRQHandler
+                0x0000000008002794                TIM1_UP_IRQHandler
+                0x0000000008002794                WWDG_IRQHandler
+                0x0000000008002794                TIM2_IRQHandler
+                0x0000000008002794                TIM1_BRK_IRQHandler
+                0x0000000008002794                EXTI1_IRQHandler
+                0x0000000008002794                USART2_IRQHandler
+                0x0000000008002794                I2C2_ER_IRQHandler
+                0x0000000008002794                DMA1_Channel2_IRQHandler
+                0x0000000008002794                CAN1_SCE_IRQHandler
+                0x0000000008002794                FLASH_IRQHandler
+                0x0000000008002794                USART1_IRQHandler
+                0x0000000008002794                I2C1_ER_IRQHandler
+                0x0000000008002794                USBWakeUp_IRQHandler
+ *fill*         0x0000000008002796        0x2 
+ .text._ZdlPv   0x0000000008002798        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+                0x0000000008002798                operator delete(void*)
+ .text.__errno  0x000000000800279c        0xc /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+                0x000000000800279c                __errno
+ .text.__libc_init_array
+                0x00000000080027a8       0x48 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+                0x00000000080027a8                __libc_init_array
+ .text.free     0x00000000080027f0       0x10 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+                0x00000000080027f0                free
+ .text.memset   0x0000000008002800       0xa4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                0x0000000008002800                memset
+ .text.__malloc_lock
+                0x00000000080028a4        0xc /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+                0x00000000080028a4                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000080028b0        0xc /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+                0x00000000080028b0                __malloc_unlock
+ .text._sbrk_r  0x00000000080028bc       0x24 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+                0x00000000080028bc                _sbrk_r
+ .text.startup.register_fini
+                0x00000000080028e0       0x14 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00000000080028f4        0xc /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+                0x00000000080028f4                atexit
+ .text.__libc_fini_array
+                0x0000000008002900       0x2c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+                0x0000000008002900                __libc_fini_array
+ .text._malloc_trim_r
+                0x000000000800292c       0xa0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+                0x000000000800292c                _malloc_trim_r
+ .text._free_r  0x00000000080029cc      0x200 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+                0x00000000080029cc                _free_r
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008002bcc        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008002bcc                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008002bd0        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000008002bd0                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000008002bd4       0x8c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+                0x0000000008002bd4                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x0000000008002c60        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008002c60        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008002c60        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008002c60        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008002c60                _init
+ .init          0x0000000008002c64        0x8 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008002c6c        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008002c6c                _fini
+ .fini          0x0000000008002c70        0x8 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000008002c78                . = ALIGN (0x4)
+                0x0000000008002c78                _etext = .
+
+.vfp11_veneer   0x0000000008002c78        0x0
+ .vfp11_veneer  0x0000000008002c78        0x0 linker stubs
+
+.v4_bx          0x0000000008002c78        0x0
+ .v4_bx         0x0000000008002c78        0x0 linker stubs
+
+.iplt           0x0000000008002c78        0x0
+ .iplt          0x0000000008002c78        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x0000000008002c78       0x78
+                0x0000000008002c78                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008002c78       0x10 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+                0x0000000008002c78                vtable for BUTTON_Proxy
+ .rodata        0x0000000008002c88       0x10 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+                0x0000000008002c88                vtable for BUTTON_Button_Start
+ .rodata        0x0000000008002c98       0x10 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+                0x0000000008002c98                vtable for LED_Proxy
+ .rodata        0x0000000008002ca8       0x10 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+                0x0000000008002ca8                vtable for LED_test
+ .rodata        0x0000000008002cb8       0x10 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+                0x0000000008002cb8                vtable for RobotArmManager
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x0000000008002cc8       0x10 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x0000000008002cc8                AHBPrescTable
+ .rodata.aPLLMULFactorTable.1
+                0x0000000008002cd8       0x10 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata.aPredivFactorTable.0
+                0x0000000008002ce8        0x2 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x0000000008002cea        0x2 
+ .rodata._global_impure_ptr
+                0x0000000008002cec        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                0x0000000008002cec                _global_impure_ptr
+                0x0000000008002cf0                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008002cf0        0x8
+                0x0000000008002cf0                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text._ZdlPv
+                0x0000000008002cf0        0x8 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+                0x0000000008002cf8                __exidx_end = .
+
+.rel.dyn        0x0000000008002cf8        0x0
+ .rel.iplt      0x0000000008002cf8        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.preinit_array  0x0000000008002cf8        0x0
+                0x0000000008002cf8                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008002cf8                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008002cf8       0x10
+                0x0000000008002cf8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000008002cf8        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0000000008002cfc        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .init_array    0x0000000008002d00        0x4 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+ .init_array    0x0000000008002d04        0x4 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+                0x0000000008002d08                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008002d08        0xc
+                0x0000000008002d08                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002d08        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x0000000008002d0c        0x4 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+ .fini_array    0x0000000008002d10        0x4 CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+                0x0000000008002d14                PROVIDE (__fini_array_end = .)
+                0x0000000008002d14                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x84c load address 0x0000000008002d14
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x0000000020000000                SystemCoreClock
+ .data.uwTickPrio
+                0x0000000020000004        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000004                uwTickPrio
+ .data.uwTickFreq
+                0x0000000020000008        0x1 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000008                uwTickFreq
+ *fill*         0x0000000020000009        0x3 
+ .data._impure_ptr
+                0x000000002000000c        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                0x000000002000000c                _impure_ptr
+ .data.impure_data
+                0x0000000020000010      0x428 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x0000000020000438      0x408 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                0x0000000020000438                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x0000000020000840        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                0x0000000020000840                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x0000000020000844        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                0x0000000020000844                __malloc_trim_threshold
+ .data.__atexit_recursive_mutex
+                0x0000000020000848        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000848                __atexit_recursive_mutex
+                0x000000002000084c                . = ALIGN (0x4)
+                0x000000002000084c                _edata = .
+
+.igot.plt       0x000000002000084c        0x0 load address 0x0000000008003560
+ .igot.plt      0x000000002000084c        0x0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000002000084c                . = ALIGN (0x4)
+
+.bss            0x000000002000084c       0x80 load address 0x0000000008003560
+                0x000000002000084c                _sbss = .
+                0x000000002000084c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000084c       0x1c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000020000868        0xc CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+                0x0000000020000868                BUTTON_Button_Start::instance
+ .bss           0x0000000020000874        0xc CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+                0x0000000020000874                LED_test::instance
+ .bss           0x0000000020000880        0xc CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+                0x0000000020000880                RTE_LED1
+                0x0000000020000884                RTE_BUTTON1
+                0x0000000020000888                RTE_STEPPER
+ *(.bss*)
+ .bss.__sbrk_heap_end
+                0x000000002000088c        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .bss.uwTick    0x0000000020000890        0x4 CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000890                uwTick
+ .bss.__malloc_current_mallinfo
+                0x0000000020000894       0x28 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                0x0000000020000894                __malloc_current_mallinfo
+ .bss.__malloc_top_pad
+                0x00000000200008bc        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+                0x00000000200008bc                __malloc_top_pad
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000200008c0        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x00000000200008c0                __lock___atexit_recursive_mutex
+ *fill*         0x00000000200008c1        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000200008c4        0x1 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x00000000200008c4                __lock___malloc_recursive_mutex
+ *fill*         0x00000000200008c5        0x3 
+ .bss.errno     0x00000000200008c8        0x4 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+                0x00000000200008c8                errno
+ *(COMMON)
+                0x00000000200008cc                . = ALIGN (0x4)
+                0x00000000200008cc                _ebss = .
+                0x00000000200008cc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200008cc      0x604 load address 0x0000000008003560
+                0x00000000200008d0                . = ALIGN (0x8)
+ *fill*         0x00000000200008cc        0x4 
+                [!provide]                        PROVIDE (end = .)
+                0x00000000200008d0                PROVIDE (_end = .)
+                0x0000000020000ad0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200008d0      0x200 
+                0x0000000020000ed0                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000ad0      0x400 
+                0x0000000020000ed0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+ .ARM.attributes
+                0x0000000000000077       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+ .ARM.attributes
+                0x00000000000000a4       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+ .ARM.attributes
+                0x00000000000000d1       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+ .ARM.attributes
+                0x00000000000000fe       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+ .ARM.attributes
+                0x000000000000012b       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+ .ARM.attributes
+                0x0000000000000158       0x2d CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+ .ARM.attributes
+                0x0000000000000185       0x2d CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+ .ARM.attributes
+                0x00000000000001b2       0x2d CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+ .ARM.attributes
+                0x00000000000001df       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .ARM.attributes
+                0x000000000000020c       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000000000000239       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x0000000000000266       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x0000000000000293       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000000000002c0       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x00000000000002ed       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000000000000031a       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x0000000000000347       0x2d CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x0000000000000374       0x21 CMakeFiles/CLion_STM_LED.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .ARM.attributes
+                0x0000000000000395       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .ARM.attributes
+                0x00000000000003c2       0x1d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000003df       0x1d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000003fc       0x1d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000419       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000446       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000473       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000004a0       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000004cd       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000000004fa       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000527       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000554       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000581       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000005ae       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000005db       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000608       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000635       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000662       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000068f       0x2d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000006bc       0x1d /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(CLion_STM_LED.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 CMakeFiles/CLion_STM_LED.elf.dir/ASW/APPs/Src/main.cpp.obj
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Proxy.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/BUTTON_Singleton_Sample.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Proxy.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/LED_Singleton_Sample.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RobotArmManager.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/ASW/DE/Src/RotatingArmJoint.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/BSW/Src/BSW_DIO.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/RTE/Src/RTE.cpp.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/ECU_Config.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000000000000049       0x4a CMakeFiles/CLion_STM_LED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+
+.debug_frame    0x0000000000000000      0x514
+ .debug_frame   0x0000000000000000       0x20 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libstdc++.a(del_op.o)
+ .debug_frame   0x0000000000000020       0xac /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000000000cc       0x50 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x000000000000011c       0x24 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000000140       0x20 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000160       0x2c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000018c       0x30 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000000000001bc       0x4c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000208       0x2c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000234       0x30 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000264       0x2c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000290       0x5c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000002ec       0x20 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000000000000030c       0x34 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000340       0x8c /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000000003cc       0xb0 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .debug_frame   0x000000000000047c       0x64 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000000004e0       0x34 /mnt/c/Users/ASUS/OneDrive/Máy tính/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
