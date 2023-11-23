@@ -7,6 +7,7 @@ extern "C" {
 
 #include "BSW_DIO.h"
 #include "ECU_Config.h"
+#include <cstdint>
 
 /**
  * @brief Pointer to the state of LED1

@@ -19,7 +19,8 @@
 /* USER CODE END Header */
 
 /* Includes ------------------------------------------------------------------*/
-#include <ECU_Config.h>
+#include "ECU_Config.h"
+
 /* USER CODE BEGIN Includes */
 
 /* USER CODE END Includes */

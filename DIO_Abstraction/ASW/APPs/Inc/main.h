@@ -16,8 +16,9 @@ extern "C" {
 #include "RotatingArmJoint.h"
 #include "Action.h"
 #include "AppType.h"
+#include <cstdint>
 
-int main();
+int main(void);
 
 #ifdef __cplusplus
 }

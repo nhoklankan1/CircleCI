@@ -12,6 +12,7 @@ extern "C" {
 
 #include "main.h"
 #include "RTE.h"
+#include <cstdint>
 
 /**
  * @class BUTTON_Proxy

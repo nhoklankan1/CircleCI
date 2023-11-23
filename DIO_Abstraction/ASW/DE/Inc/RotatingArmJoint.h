@@ -3,6 +3,7 @@
 
 #include "RTE.h"
 #include "AppType.h"
+#include <cstdint>
 
 /**
  * @file RotatingArmJoint.h

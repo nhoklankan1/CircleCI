@@ -10,6 +10,7 @@ extern "C" {
  * @brief Button Proxy class for controlling a button state
  */
 #include "BUTTON_Proxy.h"
+#include <cstdint>
 
 /**
  * @class BUTTON_Button_Start

@@ -6,28 +6,18 @@ extern "C"
 {
 #endif
 
-// #include "GraspingManipulator.h"
+#include <cstdint>
 #include "RotatingArmJoint.h"
-// #include "SlidingArmJoint.h"
 #include "Action.h"
 #include "AppType.h"
-//#include <vector>
-//#include <algorithm>
-//#include <iostream>
-//#include <string>
-	using namespace std;
-	/**
-	 * @file RobotArmManager.h
-	 * @brief Defines the RobotArmManager class for managing a robot arm's movements.
-	 */
+
+using namespace std;
+/**
+* @file RobotArmManager.h
+* @brief Defines the RobotArmManager class for managing a robot arm's movements.
+*/
 
 #define MAX 3
-
-//	class Observer
-//	{
-//	public:
-//		virtual void update() = 0;
-//	};
 
 	/**
 	 * @class RobotArmManager
@@ -38,13 +28,9 @@ extern "C"
 	private:
 		unsigned int currentStep; /**< Current step in the trajectory */
 		unsigned int nSteps;	  /**< Total number of steps in the trajectory */
-		// GraspingManipulator *itsGraspingManipulator; // Uncomment if used
 		RotatingArmJoint *itsRotatingArmJoint[MAX]; /**< Array of RotatingArmJoint objects */
-		// SlidingArmJoint *itsSlidingArmJoint[2]; // Uncomment if used
 		Action itsAction[100]; /**< Array of Action objects */
 		int status;
-//		vector<Observer*> observers;
-//		vector<Observer*> errorObservers;
 	public:
 		/**
 		 * @brief Computes the trajectory for the robot arm.
@@ -106,10 +92,6 @@ extern "C"
 		 */
 		int RobotArmManager_zero();
 
-		// Uncomment these if used...
-		// GraspingManipulator *RobotArmManager_getItsGraspingManipulator();
-		// void RobotArmManager_setItsGraspingManipulator(GraspingManipulator *p_GraspingManipulator);
-
 		/**
 		 * @brief Gets the number of RotatingArmJoint objects.
 		 * @return The number of RotatingArmJoint objects.
@@ -132,12 +114,6 @@ extern "C"
 		 * @brief Clears the list of RotatingArmJoint objects.
 		 */
 		void RobotArmManager_clearItsRotatingArmJoint();
-
-		// Uncomment these if used...
-		// int RobotArmManager_getItsSlidingArmJoint();
-		// void RobotArmManager_addItsSlidingArmJoint(SlidingArmJoint *p_SlidingArmJoint);
-		// void RobotArmManager_removeItsSlidingArmJoint(SlidingArmJoint *p_SlidingArmJoint);
-		// void RobotArmManager_clearItsSlidingArmJoint();
 
 		/**
 		 * @brief Gets the number of Action objects.
@@ -162,49 +138,6 @@ extern "C"
 		 */
 		void RobotArmManager_clearItsAction();
 
-//		void attachObserver(Observer *observer);
-//
-//		// Hủy đăng ký một Observer
-//		void detachObserver(Observer *observer);
-//
-//		// Thông báo cho tất cả các Observer khi có sự thay đổi
-//		void notifyObservers();
-//		void attachObserver(Observer *observer)
-//		{
-//			observers.push_back(observer);
-//		}
-//
-//		// Hủy đăng ký một Observer
-//		void detachObserver(Observer *observer)
-//		{
-//			observers.erase(remove(observers.begin(), observers.end(), observer), observers.end());
-//		}
-//
-//		// Thông báo cho tất cả các Observer khi có sự thay đổi
-//		void notifyObservers()
-//		{
-//			for (Observer *observer : observers)
-//			{
-//				observer->update();
-//			}
-//		}
-//		void attachErrorCheckObserver(Observer* observer) {
-//		        errorObservers.push_back(observer);
-//		    }
-//
-//		    // Hủy đăng ký một Observer cho cơ chế kiểm tra lỗi
-//		    void detachErrorCheckObserver(Observer* observer) {
-//		        errorObservers.erase(
-//		            remove(errorObservers.begin(), errorObservers.end(), observer), errorObservers.end());
-//		    }
-//
-//		    // Thông báo cho tất cả các Observer khi có lỗi xảy ra
-//		    void notifyErrorObservers() {
-//		        for (Observer* observer : errorObservers) {
-//		            observer->update();
-//		        }
-//		    }
-
 		/**
 		 * @brief Constructor for the RobotArmManager class.
 		 */
@@ -215,27 +148,6 @@ extern "C"
 		 */
 		virtual ~RobotArmManager();
 	};
-
-//	class ArmManagerObserver : public Observer
-//	{
-//	public:
-//		// Constructor và các phương thức khác (nếu cần) cho ArmManagerObserver
-//
-//		void update() override
-//		{
-//			// Đây là nơi bạn triển khai hành động khi có sự thay đổi trong RobotArmManager
-//			// Ví dụ: In ra thông báo hoặc thực hiện một tác vụ cụ thể
-//			cout << "change" << endl;
-//		}
-//	};
-//
-//	class ErrorCheckObserver : public Observer {
-//	public:
-//	    void update() override {
-//	        // Xử lý lỗi tại đây, ví dụ in ra thông báo hoặc thực hiện hành động cụ thể
-//	        cout << "Lỗi trong RotatingArmJoint. Mã lỗi: " << endl;
-//	    }
-//	};
 
 #ifdef __cplusplus
 }

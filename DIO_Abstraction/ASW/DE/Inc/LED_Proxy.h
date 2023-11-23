@@ -11,6 +11,8 @@ extern "C" {
  */
 
 #include "RTE.h"
+#include <cstdint>
+
 
 /**
  * @class LED_Proxy

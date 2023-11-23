@@ -11,6 +11,7 @@ extern "C" {
  */
 
 #include "LED_Proxy.h"
+#include <cstdint>
 
 /**
  * @class LED_test
