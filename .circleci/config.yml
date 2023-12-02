@@ -10,18 +10,10 @@ commands:
           command: |
             chmod +x ./build.sh
             ./build.sh
-      - run:
-          name: Creating Dummy Artifacts
-          command: |
-            echo "my artifact file" > ~/CircleCI/DIO_Abstraction/art-1;
-            mkdir ~/CircleCI/DIO_Abstraction/artifacts;
-            echo "my artifact files in a dir" > ~/CircleCI/DIO_Abstraction/artifacts/art-2;
       - store_artifacts:
-          path: ~/CircleCI/DIO_Abstraction/art-1
+          path: ~/CircleCI/DIO_Abstraction/build
           destination: artifact-file
-      - store_artifacts:
-          path: ~/CircleCI/DIO_Abstraction/artifacts
-
+          
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
