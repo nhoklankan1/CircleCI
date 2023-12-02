@@ -12,8 +12,8 @@ commands:
             ./build.sh
       - store_artifacts:
           path: ~/CircleCI/DIO_Abstraction/build
-
-
+          destination: artifact-file
+          
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
