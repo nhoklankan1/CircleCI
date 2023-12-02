@@ -10,19 +10,18 @@ commands:
           command: |
             chmod +x ./build.sh
             ./build.sh
-  build:
-    steps:
       - run:
           name: Creating Dummy Artifacts
           command: |
-            echo "my artifact file" > ~/CircleCI/art-1;
-            mkdir ~/CircleCI/artifacts;
-            echo "my artifact files in a dir" > ~/CircleCI/artifacts/art-2;
+            echo "my artifact file" > ~/CircleCI/DIO_Abstraction/art-1;
+            mkdir ~/CircleCI/DIO_Abstraction/artifacts;
+            echo "my artifact files in a dir" > ~/CircleCI/DIO_Abstraction/artifacts/art-2;
       - store_artifacts:
-          path: ~/CircleCI/art-1
+          path: ~/CircleCI/DIO_Abstraction/art-1
           destination: artifact-file
       - store_artifacts:
-          path: ~/CircleCI/artifacts
+          path: ~/CircleCI/DIO_Abstraction/artifacts
+
 jobs:
   build_and_save:
     working_directory: ~/CircleCI
@@ -30,11 +29,9 @@ jobs:
       - image: nhoklankan7/stm32cubeide
     steps:
       - build_and_save
-  build:
-    steps:
-      - build
+
 workflows:
+  version: 2
   build_and_save:
     jobs:
       - build_and_save
-      - build
