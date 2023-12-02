@@ -15,7 +15,7 @@ commands:
           command: |
             echo "my artifact file" > ~/CircleCI/DIO_Abstraction;
             mkdir ~/CircleCI/DIO_Abstraction/artifacts;
-            echo "my artifact files in a dir" > ~/CircleCI/DIO_Abstraction/artifacts;
+            echo "my artifact files in a dir" > ~/CircleCI/DIO_Abstraction/artifacts/art-2;
       - store_artifacts:
           path: ~/CircleCI/DIO_Abstraction
           destination: artifact-file
