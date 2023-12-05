@@ -16,8 +16,8 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-add_definitions(-D${MCU_LINE})
-add_definitions(-DUSE_HAL_LIBRARY)
+#add_definitions(-D${MCU_LINE})
+#add_definitions(-DUSE_HAL_LIBRARY)
 
 set(STM32CUBEMX_INCLUDE_DIRECTORIES
     ${CMAKE_SOURCE_DIR}/Core/Inc
@@ -51,6 +51,11 @@ file(GLOB ASM_SOURCES "Core/Startup/*.s")
 set(SOURCE_FILES ${CPP_SOURCES} ${C_SOURCES} ${ASM_SOURCES})
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
+
+target_compile_definitions(${PROJECT_NAME} PRIVATE
+    #$<$<CONFIG:Debug>:DEBUG>
+    ${MCU_LINE}
+    USE_HAL_DRIVER)
 
 include_directories(Include_Headers ${STM32CUBEMX_INCLUDE_DIRECTORIES} ${PROJECT_INCLUDE_DIRECTORIES})
 
