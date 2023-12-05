@@ -53,7 +53,6 @@ set(SOURCE_FILES ${CPP_SOURCES} ${C_SOURCES} ${ASM_SOURCES})
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 
 target_compile_definitions(${PROJECT_NAME} PRIVATE
-    #$<$<CONFIG:Debug>:DEBUG>
     ${MCU_LINE}
     USE_HAL_DRIVER)
 
